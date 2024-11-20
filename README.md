@@ -3,7 +3,6 @@
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshots](#screenshots)
   - [Links](#links)
 - [My process](#my-process)
@@ -21,8 +20,8 @@
 
 ### Links
 
-- Solution URL: [Code](https://your-solution-url.com)
-- Live Site URL: [RECIPE-PAGE](https://your-live-site-url.com)
+- Solution URL: [Code](https://github.com/rinta-git/RECIPE-PAGE/blob/main/index.html)
+- Live Site URL: [RECIPE-PAGE](https://rinta-git.github.io/RECIPE-PAGE/)
 
 ## My process
 

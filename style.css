@@ -190,7 +190,7 @@ table tr:last-child td{
     border-bottom: 0;
 }
 
-@media (min-width: 375px) and (max-width: 767px) {
+@media (min-width: 360px) and (max-width: 767px) {
     .content {
         padding: 0;
     }
